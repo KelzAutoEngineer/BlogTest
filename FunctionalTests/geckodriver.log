@@ -1,0 +1,248 @@
+1582816772972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.euIKlOx2LL73"
+1582816773596	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582816774815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582816774815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582816774815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582816774816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582816777372	Marionette	INFO	Listening on port 50908
+1582816777406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1582817075448	Marionette	INFO	Stopped listening on port 50908
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582817526470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.GK87le83EwvA"
+1582817527171	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582817528375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582817528375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582817528375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582817528375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582817530868	Marionette	INFO	Listening on port 53912
+1582817530898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+1582817535857	Marionette	INFO	Stopped listening on port 53912
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582817582109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.hVgY9xkrDQX2"
+1582817582847	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582817584276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582817584276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582817584276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582817584276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582817587089	Marionette	INFO	Listening on port 54166
+1582817587532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+1582817596722	Marionette	INFO	Stopped listening on port 54166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582817671391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.CVJx2SZMhFVg"
+1582817671979	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582817673350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582817673350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582817673351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582817673351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582817676037	Marionette	INFO	Listening on port 54549
+1582817676313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+1582817685214	Marionette	INFO	Stopped listening on port 54549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582817870863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.jghRbtoZZNZe"
+1582817871725	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582817872716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582817872716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582817872716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582817872716	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582817875477	Marionette	INFO	Listening on port 55364
+1582817875788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 132: SyntaxError: missing ( before formal parameters
+1582817887573	Marionette	INFO	Stopped listening on port 55364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582817916090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.xiwUnlX4BUuc"
+1582817916767	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582817917942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582817917942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582817917942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582817917942	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582817920902	Marionette	INFO	Listening on port 55580
+1582817921030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 132: SyntaxError: missing ( before formal parameters
+1582817927467	Marionette	INFO	Stopped listening on port 55580
+[Child 15824, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581954009/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582819224611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.3hBh0tnwcR7k"
+1582819225328	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582819226969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582819226969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582819226969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582819226969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582819230417	Marionette	INFO	Listening on port 60674
+1582819230642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 134: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/new/, line 87: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/24/, line 86: SyntaxError: missing ( before formal parameters
+1582819238014	Marionette	INFO	Stopped listening on port 60674
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582819290530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.0Xq5PD1b90mA"
+1582819291127	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582819292539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582819292539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582819292539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582819292539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582819294884	Marionette	INFO	Listening on port 60975
+1582819294969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 134: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/new/, line 87: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/25/, line 86: SyntaxError: missing ( before formal parameters
+1582819307124	Marionette	INFO	Stopped listening on port 60975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582819970299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.xPUr3IR05qnm"
+1582819970995	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582819972102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582819972102	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582819972103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582819972103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582819975120	Marionette	INFO	Listening on port 63656
+1582819975219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 134: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/new/, line 87: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/26/, line 86: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/logout/, line 74: SyntaxError: missing ( before formal parameters
+1582819988630	Marionette	INFO	Stopped listening on port 63656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582881949949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.fbTVeZhO9PLc"
+1582881953027	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582881954310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582881954311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582881954311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582881954311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582881962260	Marionette	INFO	Listening on port 65116
+1582881962587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 134: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/new/, line 87: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/28/, line 86: SyntaxError: missing ( before formal parameters
+1582881980192	Marionette	INFO	Stopped listening on port 65116
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582882033200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.6ykA0INykeD3"
+1582882034029	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582882036071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582882036071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582882036071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582882036071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582882038963	Marionette	INFO	Listening on port 65186
+1582882039240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 134: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/new/, line 87: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/29/, line 86: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/29/delete/, line 82: SyntaxError: missing ( before formal parameters
+1582882053560	Marionette	INFO	Stopped listening on port 65186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582882103825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.i9aSdox00bCO"
+1582882104472	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582882105546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582882105546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582882105546	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582882105547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582882108217	Marionette	INFO	Listening on port 65251
+1582882108250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 134: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/new/, line 87: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/30/, line 86: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/30/delete/, line 82: SyntaxError: missing ( before formal parameters
+1582882125753	Marionette	INFO	Stopped listening on port 65251
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582882146637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\tmaimakm\\AppData\\Local\\Temp\\rust_mozprofile.4iNE38NQYnoV"
+1582882147224	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582882148364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582882148364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582882148364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582882148365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582882150957	Marionette	INFO	Listening on port 65304
+1582882151057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://iblog.pythonanywhere.com/login/, line 90: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/home/, line 134: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/new/, line 87: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/31/, line 86: SyntaxError: missing ( before formal parameters
+JavaScript error: http://iblog.pythonanywhere.com/post/31/delete/, line 82: SyntaxError: missing ( before formal parameters
+1582882160187	Marionette	INFO	Stopped listening on port 65304
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
